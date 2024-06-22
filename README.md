@@ -2,6 +2,6 @@
 <h3 align="center">A computer Scientist doing Computer Science things</h3>
 <br>
 <div style="display: flex; flex-wrap: wrap;" align="center">
-<a href="https://git.io/streak-stats"><img style="flex: 1 1 200px;"src="https://github-readme-streak-stats.herokuapp.com?user=Donatooooooo&theme=react&hide_border=true&border_radius=7&card_width=499" alt="GitHub Streak" />
- <img style="flex: 1 1 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donatooooooo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></a>
+<a href="https://git.io/streak-stats"><img style="flex: 1 1 100px;"src="https://github-readme-streak-stats.herokuapp.com?user=Donatooooooo&theme=react&hide_border=true&border_radius=7&card_width=499" alt="GitHub Streak" />
+ <img style="flex: 1 1 300px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Donatooooooo&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/></a>
 <br>
