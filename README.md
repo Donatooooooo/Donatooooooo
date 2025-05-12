@@ -1,17 +1,31 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" /> Hi, I’m Donato</h1>
-<h3 align="center">A computer Scientist doing Computer Science things</h3>
-<br>
-<div  align="center">
-<a href="https://git.io/streak-stats"><img style="width: 500px; height: auto;" src="https://github-readme-streak-stats.herokuapp.com?user=Donatooooooo&theme=react&hide_border=true&border_radius=7&card_width=499" alt="GitHub Streak" /></a>
-<br>
+![Logo](img//README.png)
+<a align="center">
 
-## **Stack:** ##
-![Immagine non disponibile](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white "C++")
-![Immagine non disponibile](https://img.shields.io/badge/java-f89820?style=for-the-badge "Java")
-![Immagine non disponibile](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white "Python")
-![Immagine non disponibile](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
-![Immagine non disponibile](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
-![Immagine non disponibile](https://img.shields.io/badge/c-f7df1e?style=for-the-badge&logo=c&logoColor=black "C")
-![Immagine non disponibile](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white "PHP")
-![Immagine non disponibile](https://img.shields.io/badge/mysql-005C84?style=for-the-badge&logo=mysql&logoColor=white "MySQL")
-![Immagine non disponibile](https://img.shields.io/badge/markdown-000000?style=for-the-badge&logo=markdown&logoColor=white "MarkDown")
+### 🖥️ Backend
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-5E8C3B?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFA500?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+
+### 🧠 Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-FFA715?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0A9D64?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-2496ED?style=for-the-badge&logo=mlflow&logoColor=white)
+
+### 🗃️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🔧 Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Actions](https://img.shields.io/badge/Actions-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
