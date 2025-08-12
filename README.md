@@ -1,4 +1,8 @@
 ![Logo](img//README.png)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=linux,c,cpp,java,mysql,py,pytorch,tensorflow,html,md,git,github,docker,vscode,eclipse)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="[https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim](https://skillicons.dev/icons?i=ubuntu,c,cpp,java,mysql,py,pytorch,tensorflow,githubactions,md,git,github,docker,vscode,eclipse)" />
+  </a>
+</p>
